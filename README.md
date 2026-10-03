@@ -33,8 +33,6 @@ Completed as part of SQL Data Analytics Portfolio.
   - Category performance
   - Business insights
 
-(Adjust file names if needed to match your actual scripts.)
-
 ## Key Results
 
 ### KPIs
